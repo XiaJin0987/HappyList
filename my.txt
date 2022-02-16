@@ -1,24 +1,10 @@
 [AutoProxy 0.2.9]
-! Checksum: sWpMrw7HNcTKxF+GYabZ8A
-! Expires: 6h
-! Title: GFWList4LL
-! GFWList with EVERYTHING included
-! Last Modified: Fri, 28 Jan 2022 21:25:08 -0500
-!
-! HomePage: https://github.com/gfwlist/gfwlist
-! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
-!
-! GFWList is unlikely to fully comprise the real
-! rules being deployed inside GFW system. We try
-! our best to keep the list up to date. Please
-! contact us regarding URL submission / removal,
-! or suggestion / enhancement at issue tracker:
-! https://github.com/gfwlist/gfwlist/issues/.
-
 !personal list add
 ||avesp.xyz
 ||avedex.cc
 ||pancakeswap.finance
+||ave.ai
+||gstatic.com
 !---------403/451/503/520 & URL Redirects---------
 !--ehentai
 |http://85.17.73.31/
